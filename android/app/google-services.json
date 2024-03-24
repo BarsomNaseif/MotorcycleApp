@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "910629229591",
+    "firebase_url": "https://motrocycal-default-rtdb.firebaseio.com",
+    "project_id": "motrocycal",
+    "storage_bucket": "motrocycal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910629229591:android:7904feb438d2ecf3043852",
+        "android_client_info": {
+          "package_name": "com.example.motorcycle_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910629229591-jue9j5qaj3f32r331evng30et2u1ctlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCByLI4N6S90a46YWqPiEF3AeqMz2l-wS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910629229591-jue9j5qaj3f32r331evng30et2u1ctlc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910629229591-7r8npevq501jih4arh1p53estq30f6fa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.motrocycal.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910629229591:android:d657cd99e21a2236043852",
+        "android_client_info": {
+          "package_name": "com.example.motrocycal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910629229591-4okj1i118f3hhumo2l9qcs1b9s6ib363.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.motrocycal",
+            "certificate_hash": "5f336d7a1dc161de9c9e05b3baace9395dc48bfc"
+          }
+        },
+        {
+          "client_id": "910629229591-jue9j5qaj3f32r331evng30et2u1ctlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCByLI4N6S90a46YWqPiEF3AeqMz2l-wS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910629229591-jue9j5qaj3f32r331evng30et2u1ctlc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "910629229591-7r8npevq501jih4arh1p53estq30f6fa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.motrocycal.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

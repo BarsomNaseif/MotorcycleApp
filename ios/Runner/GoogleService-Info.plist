@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>910629229591-0qk09oohac2av3nlppiiqsh5hv7bkaii.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.910629229591-0qk09oohac2av3nlppiiqsh5hv7bkaii</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>910629229591-4okj1i118f3hhumo2l9qcs1b9s6ib363.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAxZbMPLFaJ_zuB28J2rNsdtVXqCj4153I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>910629229591</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.motorcycleApp</string>
+	<key>PROJECT_ID</key>
+	<string>motrocycal</string>
+	<key>STORAGE_BUCKET</key>
+	<string>motrocycal.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:910629229591:ios:0ec6e86e287b27b9043852</string>
+	<key>DATABASE_URL</key>
+	<string>https://motrocycal-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

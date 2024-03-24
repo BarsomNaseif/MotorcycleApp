@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">motorcycle_app</string>
+    <string name="facebook_app_id">793888266098076</string>
+    <string name="fb_login_protocol_scheme">fb793888266098076</string>
+    <string name="facebook_client_token">9f478f390648006414d817bc26101692</string>
+
+
+</resources>
